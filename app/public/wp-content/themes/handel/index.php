@@ -1,0 +1,7 @@
+<?php 
+
+    /*
+        Theme name: Handel
+    */
+
+?>
