@@ -1,8 +1,6 @@
 /* 
 Theme name: Handel
  */
- 
-body {
-    font-family: sans-serif;
-    /* background-color: blue; */
-}
+
+@import './css/base.css';
+@import './css/header.css';
