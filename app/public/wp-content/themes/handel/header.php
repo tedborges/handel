@@ -34,9 +34,7 @@
         <a href="/minha-conta" class="my-account">Minha Conta</a>
         <a href="/carrinho" class="my-cart">Carrinho
             <?php if($cart_count) { ?>
-
-            <span class="cart-count"><?= $cart_count; ?></span>
-
+                <span class="cart-count"><?= $cart_count; ?></span>
             <?php } ?>
         </a>
     </nav>
