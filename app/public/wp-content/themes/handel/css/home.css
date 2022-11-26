@@ -28,6 +28,7 @@
 
 
 /* SLIDE */
+
 .slide-item {
     display: grid;
     grid-template-columns: 65% 35%;
@@ -90,4 +91,14 @@
     justify-self: start;
     margin-left: 40px;
     margin-bottom: 30px;
+}
+
+@media (max-width: 800px) {
+    .slide-item {
+        grid-template-columns: 1fr;
+    }
+    
+    .slide-info {
+        margin-top: 20px;
+    }
 }
