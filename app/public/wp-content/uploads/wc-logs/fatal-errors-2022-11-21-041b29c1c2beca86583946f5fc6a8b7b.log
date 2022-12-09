@@ -1,0 +1,15 @@
+2022-11-21T14:19:15+00:00 CRITICAL syntax error, unexpected 'endforeach' (T_ENDFOREACH), em /home/borges/Local Sites/handel/app/public/wp-content/themes/handel/page-home.php, na linha 86
+
+2022-11-21T14:56:31+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function format_products(), 1 passed in /home/borges/Local Sites/handel/app/public/wp-content/themes/handel/page-home.php on line 43 and exactly 2 expected in /home/borges/Local Sites/handel/app/public/wp-content/themes/handel/page-home.php:13
+Stack trace:
+#0 /home/borges/Local Sites/handel/app/public/wp-content/themes/handel/page-home.php(43): format_products(Array)
+#1 /home/borges/Local Sites/handel/app/public/wp-includes/template-loader.php(106): include('/home/borges/Lo...')
+#2 /home/borges/Local Sites/handel/app/public/wp-blog-header.php(19): require_once('/home/borges/Lo...')
+#3 /home/borges/Local Sites/handel/app/public/index.php(17): require('/home/borges/Lo...')
+#4 {main}
+  thrown, em /home/borges/Local Sites/handel/app/public/wp-content/themes/handel/page-home.php, na linha 13
+
+2022-11-21T20:11:29+00:00 CRITICAL syntax error, unexpected ',', em /home/borges/Local Sites/handel/app/public/wp-content/themes/handel/page-home.php, na linha 55
+
+2022-11-21T20:11:43+00:00 CRITICAL syntax error, unexpected ',', em /home/borges/Local Sites/handel/app/public/wp-content/themes/handel/page-home.php, na linha 55
+

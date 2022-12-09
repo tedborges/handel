@@ -1,0 +1,8 @@
+2022-11-23T01:13:35+00:00 CRITICAL Uncaught Error: Call to undefined function have_post() in /home/borges/Local Sites/handel/app/public/wp-content/themes/handel/woocommerce/archive-product.php:5
+Stack trace:
+#0 /home/borges/Local Sites/handel/app/public/wp-includes/template-loader.php(106): include()
+#1 /home/borges/Local Sites/handel/app/public/wp-blog-header.php(19): require_once('/home/borges/Lo...')
+#2 /home/borges/Local Sites/handel/app/public/index.php(17): require('/home/borges/Lo...')
+#3 {main}
+  thrown, em /home/borges/Local Sites/handel/app/public/wp-content/themes/handel/woocommerce/archive-product.php, na linha 5
+

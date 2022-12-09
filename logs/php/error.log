@@ -1,0 +1,219 @@
+[09-Nov-2022 19:35:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wpadminbar() in /home/borges/Local Sites/handel/app/public/wp-content/themes/handel/header.php:8
+Stack trace:
+#0 /home/borges/Local Sites/handel/app/public/wp-includes/template.php(770): require_once()
+#1 /home/borges/Local Sites/handel/app/public/wp-includes/template.php(716): load_template('/home/borges/Lo...', true, Array)
+#2 /home/borges/Local Sites/handel/app/public/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /home/borges/Local Sites/handel/app/public/wp-content/themes/handel/index.php(1): get_header()
+#4 /home/borges/Local Sites/handel/app/public/wp-includes/template-loader.php(106): include('/home/borges/Lo...')
+#5 /home/borges/Local Sites/handel/app/public/wp-blog-header.php(19): require_once('/home/borges/Lo...')
+#6 /home/borges/Local Sites/handel/app/public/index.php(17): require('/home/borges/Lo...')
+#7 {main}
+  thrown in /home/borges/Local Sites/handel/app/public/wp-content/themes/handel/header.php on line 8
+[09-Nov-2022 19:36:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_header() in /home/borges/Local Sites/handel/app/public/wp-content/themes/handel/header.php:8
+Stack trace:
+#0 /home/borges/Local Sites/handel/app/public/wp-includes/template.php(770): require_once()
+#1 /home/borges/Local Sites/handel/app/public/wp-includes/template.php(716): load_template('/home/borges/Lo...', true, Array)
+#2 /home/borges/Local Sites/handel/app/public/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /home/borges/Local Sites/handel/app/public/wp-content/themes/handel/index.php(1): get_header()
+#4 /home/borges/Local Sites/handel/app/public/wp-includes/template-loader.php(106): include('/home/borges/Lo...')
+#5 /home/borges/Local Sites/handel/app/public/wp-blog-header.php(19): require_once('/home/borges/Lo...')
+#6 /home/borges/Local Sites/handel/app/public/index.php(17): require('/home/borges/Lo...')
+#7 {main}
+  thrown in /home/borges/Local Sites/handel/app/public/wp-content/themes/handel/header.php on line 8
+[09-Nov-2022 19:51:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_toolbar() in /home/borges/Local Sites/handel/app/public/wp-content/themes/handel/header.php:8
+Stack trace:
+#0 /home/borges/Local Sites/handel/app/public/wp-includes/template.php(770): require_once()
+#1 /home/borges/Local Sites/handel/app/public/wp-includes/template.php(716): load_template('/home/borges/Lo...', true, Array)
+#2 /home/borges/Local Sites/handel/app/public/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /home/borges/Local Sites/handel/app/public/wp-content/themes/handel/index.php(1): get_header()
+#4 /home/borges/Local Sites/handel/app/public/wp-includes/template-loader.php(106): include('/home/borges/Lo...')
+#5 /home/borges/Local Sites/handel/app/public/wp-blog-header.php(19): require_once('/home/borges/Lo...')
+#6 /home/borges/Local Sites/handel/app/public/index.php(17): require('/home/borges/Lo...')
+#7 {main}
+  thrown in /home/borges/Local Sites/handel/app/public/wp-content/themes/handel/header.php on line 8
+[09-Nov-2022 19:51:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_tool() in /home/borges/Local Sites/handel/app/public/wp-content/themes/handel/header.php:8
+Stack trace:
+#0 /home/borges/Local Sites/handel/app/public/wp-includes/template.php(770): require_once()
+#1 /home/borges/Local Sites/handel/app/public/wp-includes/template.php(716): load_template('/home/borges/Lo...', true, Array)
+#2 /home/borges/Local Sites/handel/app/public/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /home/borges/Local Sites/handel/app/public/wp-content/themes/handel/index.php(1): get_header()
+#4 /home/borges/Local Sites/handel/app/public/wp-includes/template-loader.php(106): include('/home/borges/Lo...')
+#5 /home/borges/Local Sites/handel/app/public/wp-blog-header.php(19): require_once('/home/borges/Lo...')
+#6 /home/borges/Local Sites/handel/app/public/index.php(17): require('/home/borges/Lo...')
+#7 {main}
+  thrown in /home/borges/Local Sites/handel/app/public/wp-content/themes/handel/header.php on line 8
+[09-Nov-2022 19:51:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_bar() in /home/borges/Local Sites/handel/app/public/wp-content/themes/handel/header.php:8
+Stack trace:
+#0 /home/borges/Local Sites/handel/app/public/wp-includes/template.php(770): require_once()
+#1 /home/borges/Local Sites/handel/app/public/wp-includes/template.php(716): load_template('/home/borges/Lo...', true, Array)
+#2 /home/borges/Local Sites/handel/app/public/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /home/borges/Local Sites/handel/app/public/wp-content/themes/handel/index.php(1): get_header()
+#4 /home/borges/Local Sites/handel/app/public/wp-includes/template-loader.php(106): include('/home/borges/Lo...')
+#5 /home/borges/Local Sites/handel/app/public/wp-blog-header.php(19): require_once('/home/borges/Lo...')
+#6 /home/borges/Local Sites/handel/app/public/index.php(17): require('/home/borges/Lo...')
+#7 {main}
+  thrown in /home/borges/Local Sites/handel/app/public/wp-content/themes/handel/header.php on line 8
+[09-Nov-2022 19:51:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_heade() in /home/borges/Local Sites/handel/app/public/wp-content/themes/handel/header.php:8
+Stack trace:
+#0 /home/borges/Local Sites/handel/app/public/wp-includes/template.php(770): require_once()
+#1 /home/borges/Local Sites/handel/app/public/wp-includes/template.php(716): load_template('/home/borges/Lo...', true, Array)
+#2 /home/borges/Local Sites/handel/app/public/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /home/borges/Local Sites/handel/app/public/wp-content/themes/handel/index.php(1): get_header()
+#4 /home/borges/Local Sites/handel/app/public/wp-includes/template-loader.php(106): include('/home/borges/Lo...')
+#5 /home/borges/Local Sites/handel/app/public/wp-blog-header.php(19): require_once('/home/borges/Lo...')
+#6 /home/borges/Local Sites/handel/app/public/index.php(17): require('/home/borges/Lo...')
+#7 {main}
+  thrown in /home/borges/Local Sites/handel/app/public/wp-content/themes/handel/header.php on line 8
+[10-Nov-2022 17:18:55 UTC] WordPress database error Table 'wp_wc_product_attributes_lookup' already exists for query CREATE TABLE wp_wc_product_attributes_lookup (
+ product_id bigint(20) NOT NULL,
+ product_or_parent_id bigint(20) NOT NULL,
+ taxonomy varchar(32) NOT NULL,
+ term_id bigint(20) NOT NULL,
+ is_variation_attribute tinyint(1) NOT NULL,
+ in_stock tinyint(1) NOT NULL,
+ INDEX is_variation_attribute_term_id (is_variation_attribute, term_id),
+ PRIMARY KEY  ( `product_or_parent_id`, `term_id`, `product_id`, `taxonomy` )
+) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci; made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::check_version, WC_Install::install, do_action('woocommerce_installed'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Internal\ProductAttributesLookup\DataRegenerator->__call, call_user_func_array, Automattic\WooCommerce\Internal\ProductAttributesLookup\DataRegenerator->run_woocommerce_installed_callback, Automattic\WooCommerce\Internal\ProductAttributesLookup\DataRegenerator->initiate_regeneration, Automattic\WooCommerce\Internal\ProductAttributesLookup\DataRegenerator->initialize_table_and_data
+[14-Nov-2022 18:57:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_cache_get() in /home/borges/Local Sites/handel/app/public/wp-includes/option.php:165
+Stack trace:
+#0 /home/borges/Local Sites/handel/app/public/wp-includes/l10n.php(63): get_option('WPLANG')
+#1 /home/borges/Local Sites/handel/app/public/wp-includes/l10n.php(139): get_locale()
+#2 /home/borges/Local Sites/handel/app/public/wp-includes/l10n.php(766): determine_locale()
+#3 /home/borges/Local Sites/handel/app/public/wp-includes/load.php(1395): load_textdomain('default', '/home/borges/Lo...')
+#4 /home/borges/Local Sites/handel/app/public/wp-includes/class-wpdb.php(1815): wp_load_translations_early()
+#5 /home/borges/Local Sites/handel/app/public/wp-includes/class-wpdb.php(734): wpdb->db_connect()
+#6 /home/borges/Local Sites/handel/app/public/wp-includes/load.php(562): wpdb->__construct('root', 'root', 'local', 'localhost')
+#7 /home/borges/Local Sites/handel/app/public/wp-settings.php(124): require_wp_db()
+#8 phar:///opt/Local/resources/extraResources/bin/wp-cli/wp-cli.ph in /home/borges/Local Sites/handel/app/public/wp-includes/option.php on line 165
+[14-Nov-2022 18:57:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function set() on null in /home/borges/Local Sites/handel/app/public/wp-includes/l10n.php:784
+Stack trace:
+#0 /home/borges/Local Sites/handel/app/public/wp-includes/l10n.php(872): load_textdomain('default', '/home/borges/Lo...', 'pt_BR')
+#1 /home/borges/Local Sites/handel/app/public/wp-includes/class-wp-fatal-error-handler.php(47): load_default_textdomain()
+#2 [internal function]: WP_Fatal_Error_Handler->handle()
+#3 {main}
+  thrown in /home/borges/Local Sites/handel/app/public/wp-includes/l10n.php on line 784
+[14-Nov-2022 18:57:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_cache_get() in /home/borges/Local Sites/handel/app/public/wp-includes/option.php:165
+Stack trace:
+#0 /home/borges/Local Sites/handel/app/public/wp-includes/l10n.php(63): get_option('WPLANG')
+#1 /home/borges/Local Sites/handel/app/public/wp-includes/l10n.php(139): get_locale()
+#2 /home/borges/Local Sites/handel/app/public/wp-includes/l10n.php(766): determine_locale()
+#3 /home/borges/Local Sites/handel/app/public/wp-includes/load.php(1395): load_textdomain('default', '/home/borges/Lo...')
+#4 /home/borges/Local Sites/handel/app/public/wp-includes/class-wpdb.php(1815): wp_load_translations_early()
+#5 /home/borges/Local Sites/handel/app/public/wp-includes/class-wpdb.php(734): wpdb->db_connect()
+#6 /home/borges/Local Sites/handel/app/public/wp-includes/load.php(562): wpdb->__construct('root', 'root', 'local', 'localhost')
+#7 /home/borges/Local Sites/handel/app/public/wp-settings.php(124): require_wp_db()
+#8 phar:///opt/Local/resources/extraResources/bin/wp-cli/wp-cli.ph in /home/borges/Local Sites/handel/app/public/wp-includes/option.php on line 165
+[14-Nov-2022 18:57:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function set() on null in /home/borges/Local Sites/handel/app/public/wp-includes/l10n.php:784
+Stack trace:
+#0 /home/borges/Local Sites/handel/app/public/wp-includes/l10n.php(872): load_textdomain('default', '/home/borges/Lo...', 'pt_BR')
+#1 /home/borges/Local Sites/handel/app/public/wp-includes/class-wp-fatal-error-handler.php(47): load_default_textdomain()
+#2 [internal function]: WP_Fatal_Error_Handler->handle()
+#3 {main}
+  thrown in /home/borges/Local Sites/handel/app/public/wp-includes/l10n.php on line 784
+[18-Nov-2022 21:31:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_cache_get() in /home/borges/Local Sites/handel/app/public/wp-includes/option.php:165
+Stack trace:
+#0 /home/borges/Local Sites/handel/app/public/wp-includes/l10n.php(63): get_option('WPLANG')
+#1 /home/borges/Local Sites/handel/app/public/wp-includes/l10n.php(139): get_locale()
+#2 /home/borges/Local Sites/handel/app/public/wp-includes/l10n.php(766): determine_locale()
+#3 /home/borges/Local Sites/handel/app/public/wp-includes/load.php(1395): load_textdomain('default', '/home/borges/Lo...')
+#4 /home/borges/Local Sites/handel/app/public/wp-includes/class-wpdb.php(1815): wp_load_translations_early()
+#5 /home/borges/Local Sites/handel/app/public/wp-includes/class-wpdb.php(734): wpdb->db_connect()
+#6 /home/borges/Local Sites/handel/app/public/wp-includes/load.php(562): wpdb->__construct('root', 'root', 'local', 'localhost')
+#7 /home/borges/Local Sites/handel/app/public/wp-settings.php(124): require_wp_db()
+#8 phar:///opt/Local/resources/extraResources/bin/wp-cli/wp-cli.ph in /home/borges/Local Sites/handel/app/public/wp-includes/option.php on line 165
+[18-Nov-2022 21:31:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function set() on null in /home/borges/Local Sites/handel/app/public/wp-includes/l10n.php:784
+Stack trace:
+#0 /home/borges/Local Sites/handel/app/public/wp-includes/l10n.php(872): load_textdomain('default', '/home/borges/Lo...', 'pt_BR')
+#1 /home/borges/Local Sites/handel/app/public/wp-includes/class-wp-fatal-error-handler.php(47): load_default_textdomain()
+#2 [internal function]: WP_Fatal_Error_Handler->handle()
+#3 {main}
+  thrown in /home/borges/Local Sites/handel/app/public/wp-includes/l10n.php on line 784
+[18-Nov-2022 21:31:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_cache_get() in /home/borges/Local Sites/handel/app/public/wp-includes/option.php:165
+Stack trace:
+#0 /home/borges/Local Sites/handel/app/public/wp-includes/l10n.php(63): get_option('WPLANG')
+#1 /home/borges/Local Sites/handel/app/public/wp-includes/l10n.php(139): get_locale()
+#2 /home/borges/Local Sites/handel/app/public/wp-includes/l10n.php(766): determine_locale()
+#3 /home/borges/Local Sites/handel/app/public/wp-includes/load.php(1395): load_textdomain('default', '/home/borges/Lo...')
+#4 /home/borges/Local Sites/handel/app/public/wp-includes/class-wpdb.php(1815): wp_load_translations_early()
+#5 /home/borges/Local Sites/handel/app/public/wp-includes/class-wpdb.php(734): wpdb->db_connect()
+#6 /home/borges/Local Sites/handel/app/public/wp-includes/load.php(562): wpdb->__construct('root', 'root', 'local', 'localhost')
+#7 /home/borges/Local Sites/handel/app/public/wp-settings.php(124): require_wp_db()
+#8 phar:///opt/Local/resources/extraResources/bin/wp-cli/wp-cli.ph in /home/borges/Local Sites/handel/app/public/wp-includes/option.php on line 165
+[18-Nov-2022 21:31:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function set() on null in /home/borges/Local Sites/handel/app/public/wp-includes/l10n.php:784
+Stack trace:
+#0 /home/borges/Local Sites/handel/app/public/wp-includes/l10n.php(872): load_textdomain('default', '/home/borges/Lo...', 'pt_BR')
+#1 /home/borges/Local Sites/handel/app/public/wp-includes/class-wp-fatal-error-handler.php(47): load_default_textdomain()
+#2 [internal function]: WP_Fatal_Error_Handler->handle()
+#3 {main}
+  thrown in /home/borges/Local Sites/handel/app/public/wp-includes/l10n.php on line 784
+[18-Nov-2022 21:31:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_cache_get() in /home/borges/Local Sites/handel/app/public/wp-includes/option.php:165
+Stack trace:
+#0 /home/borges/Local Sites/handel/app/public/wp-includes/l10n.php(63): get_option('WPLANG')
+#1 /home/borges/Local Sites/handel/app/public/wp-includes/l10n.php(139): get_locale()
+#2 /home/borges/Local Sites/handel/app/public/wp-includes/l10n.php(766): determine_locale()
+#3 /home/borges/Local Sites/handel/app/public/wp-includes/load.php(1395): load_textdomain('default', '/home/borges/Lo...')
+#4 /home/borges/Local Sites/handel/app/public/wp-includes/class-wpdb.php(1815): wp_load_translations_early()
+#5 /home/borges/Local Sites/handel/app/public/wp-includes/class-wpdb.php(734): wpdb->db_connect()
+#6 /home/borges/Local Sites/handel/app/public/wp-includes/load.php(562): wpdb->__construct('root', 'root', 'local', 'localhost')
+#7 /home/borges/Local Sites/handel/app/public/wp-settings.php(124): require_wp_db()
+#8 /home/borges/Local Sites/handel/app/public/wp-config.php(91): r in /home/borges/Local Sites/handel/app/public/wp-includes/option.php on line 165
+[18-Nov-2022 21:31:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function set() on null in /home/borges/Local Sites/handel/app/public/wp-includes/l10n.php:784
+Stack trace:
+#0 /home/borges/Local Sites/handel/app/public/wp-includes/l10n.php(872): load_textdomain('default', '/home/borges/Lo...', 'pt_BR')
+#1 /home/borges/Local Sites/handel/app/public/wp-includes/class-wp-fatal-error-handler.php(47): load_default_textdomain()
+#2 [internal function]: WP_Fatal_Error_Handler->handle()
+#3 {main}
+  thrown in /home/borges/Local Sites/handel/app/public/wp-includes/l10n.php on line 784
+[20-Nov-2022 18:46:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_cache_get() in /home/borges/Local Sites/handel/app/public/wp-includes/option.php:165
+Stack trace:
+#0 /home/borges/Local Sites/handel/app/public/wp-includes/l10n.php(63): get_option('WPLANG')
+#1 /home/borges/Local Sites/handel/app/public/wp-includes/l10n.php(139): get_locale()
+#2 /home/borges/Local Sites/handel/app/public/wp-includes/l10n.php(766): determine_locale()
+#3 /home/borges/Local Sites/handel/app/public/wp-includes/load.php(1395): load_textdomain('default', '/home/borges/Lo...')
+#4 /home/borges/Local Sites/handel/app/public/wp-includes/class-wpdb.php(1815): wp_load_translations_early()
+#5 /home/borges/Local Sites/handel/app/public/wp-includes/class-wpdb.php(734): wpdb->db_connect()
+#6 /home/borges/Local Sites/handel/app/public/wp-includes/load.php(562): wpdb->__construct('root', 'root', 'local', 'localhost')
+#7 /home/borges/Local Sites/handel/app/public/wp-settings.php(124): require_wp_db()
+#8 phar:///opt/Local/resources/extraResources/bin/wp-cli/wp-cli.ph in /home/borges/Local Sites/handel/app/public/wp-includes/option.php on line 165
+[20-Nov-2022 18:46:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function set() on null in /home/borges/Local Sites/handel/app/public/wp-includes/l10n.php:784
+Stack trace:
+#0 /home/borges/Local Sites/handel/app/public/wp-includes/l10n.php(872): load_textdomain('default', '/home/borges/Lo...', 'pt_BR')
+#1 /home/borges/Local Sites/handel/app/public/wp-includes/class-wp-fatal-error-handler.php(47): load_default_textdomain()
+#2 [internal function]: WP_Fatal_Error_Handler->handle()
+#3 {main}
+  thrown in /home/borges/Local Sites/handel/app/public/wp-includes/l10n.php on line 784
+[20-Nov-2022 19:29:53 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/borges/Local Sites/handel/app/public/wp-content/themes/handel/page-home.php on line 19
+[20-Nov-2022 19:36:25 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/borges/Local Sites/handel/app/public/wp-content/themes/handel/page-home.php on line 21
+[20-Nov-2022 19:36:43 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/borges/Local Sites/handel/app/public/wp-content/themes/handel/page-home.php on line 21
+[21-Nov-2022 14:19:15 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/borges/Local Sites/handel/app/public/wp-content/themes/handel/page-home.php on line 86
+[21-Nov-2022 14:19:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/borges/Local Sites/handel/app/public/wp-content/themes/handel/page-home.php on line 16
+[21-Nov-2022 14:19:26 UTC] PHP Stack trace:
+[21-Nov-2022 14:19:26 UTC] PHP   1. {main}() /home/borges/Local Sites/handel/app/public/index.php:0
+[21-Nov-2022 14:19:26 UTC] PHP   2. require() /home/borges/Local Sites/handel/app/public/index.php:17
+[21-Nov-2022 14:19:26 UTC] PHP   3. require_once() /home/borges/Local Sites/handel/app/public/wp-blog-header.php:19
+[21-Nov-2022 14:19:26 UTC] PHP   4. include() /home/borges/Local Sites/handel/app/public/wp-includes/template-loader.php:106
+[21-Nov-2022 14:19:26 UTC] PHP   5. format_products($products = NULL) /home/borges/Local Sites/handel/app/public/wp-content/themes/handel/page-home.php:45
+[21-Nov-2022 14:20:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/borges/Local Sites/handel/app/public/wp-content/themes/handel/page-home.php on line 16
+[21-Nov-2022 14:20:04 UTC] PHP Stack trace:
+[21-Nov-2022 14:20:04 UTC] PHP   1. {main}() /home/borges/Local Sites/handel/app/public/index.php:0
+[21-Nov-2022 14:20:04 UTC] PHP   2. require() /home/borges/Local Sites/handel/app/public/index.php:17
+[21-Nov-2022 14:20:04 UTC] PHP   3. require_once() /home/borges/Local Sites/handel/app/public/wp-blog-header.php:19
+[21-Nov-2022 14:20:04 UTC] PHP   4. include() /home/borges/Local Sites/handel/app/public/wp-includes/template-loader.php:106
+[21-Nov-2022 14:20:04 UTC] PHP   5. format_products($products = NULL) /home/borges/Local Sites/handel/app/public/wp-content/themes/handel/page-home.php:45
+[21-Nov-2022 14:56:31 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function format_products(), 1 passed in /home/borges/Local Sites/handel/app/public/wp-content/themes/handel/page-home.php on line 43 and exactly 2 expected in /home/borges/Local Sites/handel/app/public/wp-content/themes/handel/page-home.php:13
+Stack trace:
+#0 /home/borges/Local Sites/handel/app/public/wp-content/themes/handel/page-home.php(43): format_products(Array)
+#1 /home/borges/Local Sites/handel/app/public/wp-includes/template-loader.php(106): include('/home/borges/Lo...')
+#2 /home/borges/Local Sites/handel/app/public/wp-blog-header.php(19): require_once('/home/borges/Lo...')
+#3 /home/borges/Local Sites/handel/app/public/index.php(17): require('/home/borges/Lo...')
+#4 {main}
+  thrown in /home/borges/Local Sites/handel/app/public/wp-content/themes/handel/page-home.php on line 13
+[21-Nov-2022 20:11:29 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/borges/Local Sites/handel/app/public/wp-content/themes/handel/page-home.php on line 55
+[21-Nov-2022 20:11:43 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/borges/Local Sites/handel/app/public/wp-content/themes/handel/page-home.php on line 55
+[23-Nov-2022 01:13:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function have_post() in /home/borges/Local Sites/handel/app/public/wp-content/themes/handel/woocommerce/archive-product.php:5
+Stack trace:
+#0 /home/borges/Local Sites/handel/app/public/wp-includes/template-loader.php(106): include()
+#1 /home/borges/Local Sites/handel/app/public/wp-blog-header.php(19): require_once('/home/borges/Lo...')
+#2 /home/borges/Local Sites/handel/app/public/index.php(17): require('/home/borges/Lo...')
+#3 {main}
+  thrown in /home/borges/Local Sites/handel/app/public/wp-content/themes/handel/woocommerce/archive-product.php on line 5
